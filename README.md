@@ -5,11 +5,11 @@ Projet n°7 : "Implémentez un modèle de scoring"
 
 Données:https://www.kaggle.com/c/home-credit-default-risk/data
 
-Lien github du projet:
+Lien github du projet:https://github.com/Grosus/DS_P7_PONCET_Ronan
 
-Lien github de l'API:
+Lien github de l'API:https://github.com/Grosus/P7API
 
-Lien github du dashboard:
+Lien github du dashboard:https://github.com/Grosus/dashboard
 
 Description du projet
 Deployer un modèle de scoring sur un jeu de données déséquilibré (pénalisation des classes par Sample Weights et SMOTE)
