@@ -15,7 +15,7 @@ Mise en place d'une API Flask pour appeler le modèle de prédiction
 Construction d'un dashboard interactif (Streamlit)
 
 
-Compétences évaluées /n/n
+Compétences évaluées /n/n \n
 Réaliser un dashboard pour présenter son travail de modélisation
 Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
 Présenter son travail de modélisation à l'oral
